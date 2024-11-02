@@ -6,7 +6,5 @@
 - 📫 How to reach me **skarras@student.hive.fi**
 
 - ⚡ Fun fact **I enjoy a challenge**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
